@@ -1,2 +1,5 @@
 # practicegitcommand
-Practice repo command.
+    
+- Practice repo command.
+- I revice some commands
+
