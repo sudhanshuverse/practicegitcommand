@@ -10,3 +10,16 @@ html, body {
     height: 100%;
     width: 100%;
 }
+
+h1{
+    background-color: thistle;
+    color: blueviolet;
+}
+
+h2{
+    background-color: aqua;
+}
+
+p{
+    background-color: violet;
+}
